@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="GpioReader/GpioTool.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GpioReader/MainProgram.cs">
+    <Files>
+      <File FileName="../../../Libs/WiringPi/WiringPi.NET/PinWatcher.cs" Line="145" Column="4" />
+      <File FileName="../../../Libs/WiringPi/WiringPi.NET/GpioPin.cs" Line="61" Column="4" />
+      <File FileName="GpioReader/Program.cs" Line="9" Column="30" />
+      <File FileName="GpioReader/MainProgram.cs" Line="208" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,3 @@
+[submodule "WiringPi.NET"]
+	path = WiringPi.NET
+	url = https://github.com/EvilVir/WiringPi.NET.git
